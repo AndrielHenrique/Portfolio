@@ -86,7 +86,7 @@ const Hero = () => {
                         height={1000}
                         width={1000}
                         alt="Andriel Henrique"
-                        className="mx-auto h-auto w-[80%] max-w-[300px] sm:max-w-[360px]"
+                        className="mx-auto h-auto w-[120%] max-w-[300px] sm:max-w-[360px]"
                         priority
                     />
                 </motion.div>
