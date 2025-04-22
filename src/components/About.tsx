@@ -36,7 +36,7 @@ const About = () => {
                 About<span className="text-orange-400">Me</span>
             </h1>
 
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-8">
+            <div className="px-6 md:p-0 grid grid-cols-1 sm:grid-cols-2 gap-8">
                 {aboutItems.map((item, index) => (
                     <div
                         key={index}

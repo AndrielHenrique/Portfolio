@@ -33,7 +33,7 @@ const Hero = () => {
 
                 {/* Floating Icons */}
                 <motion.div
-                    className="absolute left-[5%] top-[180px] sm:left-[150px]"
+                    className="hidden md:block absolute left-[5%] top-[180px] sm:left-[150px]"
                     drag
                     whileHover={{ scale: 1.1, rotate: 10 }}
                     dragConstraints={{ top: 0, bottom: 0, left: 0, right: 0 }}
@@ -49,7 +49,7 @@ const Hero = () => {
                 </motion.div>
 
                 <motion.div
-                    className="absolute right-[5%] top-[80px] sm:right-[150px]"
+                    className="hidden md:block absolute right-[5%] top-[80px] sm:right-[150px]"
                     drag
                     whileHover={{ scale: 1.1, rotate: -10 }}
                     dragConstraints={{ top: 0, bottom: 0, left: 0, right: 0 }}
