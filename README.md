@@ -1,17 +1,24 @@
-Este é um Portfolio Website desenvolvido com Next.js e estilizado com Tailwind CSS, onde pretendo adicionar meus futuros projetos, habilidades técnicas e um pouco mais sobre mim.
+# 🧑‍💻 Portfolio Website
 
-🚀 Tecnologias utilizadas
-⚙️ Next.js — Framework React full-stack
+Este é um **Portfolio Website** desenvolvido com **Next.js** e estilizado com **Tailwind CSS**, onde pretendo adicionar meus futuros projetos, habilidades técnicas e um pouco mais sobre mim.
 
-🎨 Tailwind CSS — Estilização rápida e responsiva
-⚛️ React — Biblioteca para interfaces modernas
-✨ Framer Motion — Animações fluidas
-🧩 React Icons — Ícones de tecnologia
-📱 Mobile First Design — Totalmente responsivo
+---
 
-🛠️ Como rodar localmente
+## 🚀 Tecnologias Utilizadas
+
+- ⚙️ **Next.js** – Framework React full-stack  
+- ⚛️ **React** – Biblioteca para interfaces modernas  
+- 🎨 **Tailwind CSS** – Estilização rápida e responsiva  
+- ✨ **Framer Motion** – Animações suaves e elegantes  
+- 🧩 **React Icons** – Ícones representando tecnologias  
+- 📱 **Mobile First Design** – Totalmente responsivo  
+
+---
+
+## 🛠️ Como Rodar Localmente
+
+```bash
 git clone https://github.com/seu-usuario/seu-repo.git
 cd seu-repo
 npm install
 npm run dev
-Acesse http://localhost:3000 no navegador 🚀
